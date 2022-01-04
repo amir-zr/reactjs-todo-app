@@ -1,0 +1,9 @@
+.todo-list-container{
+    justify-content: center;
+    width : 84%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.main-alert{
+    border-radius: 10px;
+}
